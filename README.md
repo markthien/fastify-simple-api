@@ -13,6 +13,7 @@ npm install
 ```config
 1. create an .env file in the root directory
 2. Enter your GNews Api Key for GNEWS_API_KEY key
+3. Create a folder named logs
 ```
 
 ## Usage
