@@ -1,7 +1,18 @@
+
+# Project Title
+
+Fastify Simple Api Server
+
 ## Installation
 
 ```bash
 npm install
+```
+
+## Configuration
+```config
+1. create an .env file in the root directory
+2. Enter your GNews Api Key for GNEWS_API_KEY key
 ```
 
 ## Usage
